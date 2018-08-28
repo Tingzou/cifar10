@@ -1,1 +1,1 @@
-# cifar10
+# cifar10 top1 = 75.4%
